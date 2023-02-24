@@ -8,8 +8,6 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "blog:dev": "vuepress dev blog",
-    "blog:build": "vuepress build blog",
     "dev": "npm run docs:dev",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
