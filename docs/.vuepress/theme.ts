@@ -3,18 +3,18 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://mamumu123.github.io/",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "lemma",
+    url: "https://mamumu123.github.io/",
   },
 
   iconAssets: "iconfont",
 
   logo: "/logo.webp",
 
-  repo: "vuepress-theme-hope/online-demo",
+  repo: "https://github.com/mamumu123/mamumu123.github.io",
 
   docsDir: "docs",
 
@@ -29,11 +29,12 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
+      // TODO:
       footer: "默认页脚",
 
       displayFooter: true,
 
-      // page meta
+      // TODO: ??page meta
       metaLocales: {
         editLink: "在 GitHub 上编辑此页",
       },
@@ -70,8 +71,8 @@ export default hopeTheme({
       /**
        * Using Waline
        */
-      provider: "Waline",
-      serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      // provider: "Waline",
+      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
     },
 
     // Disable features you don’t want here

@@ -1,16 +1,16 @@
 ---
-title: 指南
+title: 刷题记录
 icon: creative
+index: false
+# category:
+#   - 使用指南
 ---
 
-## 功能亮点
 
-### Bar
+## 目录
 
-- [baz](bar/baz.md)
-- ...
+- [a + b](add.md)
 
-### Foo
 
-- [ray](foo/ray.md)
-- ...
+
+这里记录一些学到的技术点
