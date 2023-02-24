@@ -6,11 +6,11 @@ title: 项目主页
 heroText: lemC 的个人网站
 tagline: 在这里记录一下个人的技术和生活
 actions:
-  - text: 使用指南 💡
-    link: /blog/ # TODO: 
+  - text: 知识点记录 💡
+    link: /log/ # TODO: 
     type: primary
 
-  - text: 文档
+  - text: 刷题
     link: /guide/
 
 # features:
