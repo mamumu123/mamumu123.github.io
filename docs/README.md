@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 项目主页
-heroImage: /logo.webp
+# heroImage: /logo.webp
 heroText: lemC 的个人网站
 tagline: 在这里记录一下个人的技术和生活
 actions:
