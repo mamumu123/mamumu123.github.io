@@ -2,16 +2,14 @@
 title: 刷题记录
 icon: creative
 index: false
-# category:
-#   - 使用指南
+category:
+  - 使用指南
 ---
 
 
 ## 目录
 
-### 链表
-
-- [反转链表](反转链表.md)
+- [反转链表](link/反转链表.md)
 
 
 
