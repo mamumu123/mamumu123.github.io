@@ -16,3 +16,10 @@ git push
 
 参考
 https://theme-hope.vuejs.press/zh/config/theme/layout.html#navbarautohide
+
+
+安装
+
+```js
+npm i --registry https://registry.npm.taobao.org
+```
