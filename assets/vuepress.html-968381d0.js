@@ -1,0 +1,1 @@
+import{_ as s,V as t,W as r,X as e,$ as a}from"./framework-37421b7a.js";const c={},o=e("h2",{id:"学习笔记",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#学习笔记","aria-hidden":"true"},"#"),a(" 学习笔记")],-1),n=e("p",null,"目标 了解 vuepress 懂得远离 知道几个插件",-1),_=[o,n];function d(i,l){return t(),r("div",null,_)}const u=s(c,[["render",d],["__file","vuepress.html.vue"]]);export{u as default};
