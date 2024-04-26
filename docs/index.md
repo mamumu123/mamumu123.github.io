@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /categories/issues/index # blog 整理
+      link: /categories/note/index # blog 整理
     - theme: alt
       text: 在 GitHub 查看
       link: https://github.com/mamumu123/mamumu123.github.io
