@@ -5,7 +5,7 @@ lastUpdated: false
 showComment: false
 ---
 
-# Bug万象集
+# 知识库
 
 ::: tip 笔者说
 好记性不如烂笔头

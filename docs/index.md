@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: 知识库
+title: 知识库（施工中）
 titleTemplate: 个人技术知识库，记录和分享个人碎片化、结构化、体系化的技术知识内容
 
 hero:
-  name: 查尔斯的知识库
+  name: 知识库（施工中）
   text: 专注 & 洞察 & 分享
   tagline: 个人技术知识库，记录 & 分享个人碎片化、结构化、体系化的技术知识内容。
   image:
@@ -13,7 +13,7 @@ hero:
     alt: Logo
   actions:
     - theme: brand
-      text: 快速开始
+      text: 技术笔记
       link: /categories/note/index # blog 整理
     - theme: alt
       text: 在 GitHub 查看

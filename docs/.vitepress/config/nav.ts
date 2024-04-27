@@ -2,7 +2,7 @@ import type { DefaultTheme } from 'vitepress';
 
 export const nav: DefaultTheme.Config['nav'] = [
   {
-    text: '我的分类',
+    text: '知识库',
     items: [
       { text: '技术笔记', link: '/categories/note/index', activeMatch: '/categories/note/' },
       // { text: '刷点题', link: '/categories/leetcode/index', activeMatch: '/categories/leetcode/' },
@@ -11,15 +11,15 @@ export const nav: DefaultTheme.Config['nav'] = [
     ],
     activeMatch: '/categories/'
   },
-  // {
-  //   text: '我的小册',
-  //   items: [
-  //     { text: 'Java基础快速入门', link: '/courses/java/index', activeMatch: '/courses/java/' },
-  //     { text: 'MySQL快速入门', link: '/courses/mysql/index', activeMatch: '/courses/mysql/' },
-  //     { text: 'MyBatis快速入门', link: '/courses/mybatis/index', activeMatch: '/courses/mybatis/' }
-  //   ],
-  //   activeMatch: '/courses/'
-  // },
+  {
+    text: '刷题',
+    items: [
+      { text: 'leetCode top 100', link: '/courses/leetcode/index', activeMatch: '/courses/leetcode/' },
+      //   { text: 'MySQL快速入门', link: '/courses/mysql/index', activeMatch: '/courses/mysql/' },
+      //   { text: 'MyBatis快速入门', link: '/courses/mybatis/index', activeMatch: '/courses/mybatis/' }
+    ],
+    activeMatch: '/courses/'
+  },
   // {
   //   text: '我的标签',
   //   link: '/tags',
