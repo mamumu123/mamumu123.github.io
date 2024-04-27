@@ -5,7 +5,7 @@ export const nav: DefaultTheme.Config['nav'] = [
     text: '知识库',
     items: [
       { text: '技术笔记', link: '/categories/note/index', activeMatch: '/categories/note/' },
-      // { text: '刷点题', link: '/categories/leetcode/index', activeMatch: '/categories/leetcode/' },
+      { text: '碎碎念', link: '/categories/issues/index', activeMatch: '/categories/issues/' },
       // { text: '工具四海谈', link: '/categories/tools/index', activeMatch: '/categories/tools/' },
       // { text: '方案春秋志', link: '/categories/solutions/index', activeMatch: '/categories/solutions/' }
     ],

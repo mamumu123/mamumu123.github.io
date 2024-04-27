@@ -19,7 +19,7 @@ canvas、drawImage、 demo、头像拼接、颜色选取
 
 ### 项目背景
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/478187a3f15346e4800577648641def5~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://github.com/mamumu123/picx-images-hosting/raw/master/a.5mnlvklw15.webp)
 
 在玩蛋仔派对的时候，觉得换肤很有意思。在逛开源社区的时候，看到了用 `canvas.drawImage` 实现同样效果的项目（[gclx-official](https://github.com/lxdao-official/gclx-official)）。
 
@@ -63,7 +63,7 @@ const loadImage = (src: string) =>
 ctx?.drawImage(item, 0, 0, 200, 200);
 ```
 
-![3.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/be07ab2e74434956b7a66ceb943c1733~tplv-k3u1fbpfcp-watermark.image?)
+![3.png](https://github.com/mamumu123/picx-images-hosting/raw/master/a.8z6bpyjq3w.webp)
 
 这样，一张图片就被画到画布上面了。
 
@@ -71,7 +71,7 @@ ctx?.drawImage(item, 0, 0, 200, 200);
 
 体验地址：[头像拼接](https://mamumu123.github.io/img-generate/) 
 
-![2.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/151cfb84e899446d96862ed1d83b8985~tplv-k3u1fbpfcp-watermark.image?)
+![2.png](https://github.com/mamumu123/picx-images-hosting/raw/master/b.32hriy48fg.webp)
 
 如果要实现拼接头像的功能，就是将几张图片叠加绘制到画布上去。
 
@@ -95,7 +95,7 @@ imagesObj.forEach((item) => {
 
 功能描述：就是在节日的时候，可以在头像上增加一些节日的装饰，增加节日气氛。体验地址：[节日气氛](https://mamumu123.github.io/img-generate/flower)
 
-![4.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0b00291bb54f4874a404c6e1b36499fa~tplv-k3u1fbpfcp-watermark.image?)
+![4.png](https://github.com/mamumu123/picx-images-hosting/raw/master/c.9gwdejn36g.webp)
 
 ### 核心代码
 
